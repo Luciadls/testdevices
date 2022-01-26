@@ -11,7 +11,7 @@ public class main {
       // Se comienza el sistema para elegir que se desea hacer
       System.out.println("Sistema de registro de celulares y smartphones de December Labs");
       do {
-         System.out.println("Que deseas hacer?");
+         System.out.println("¿Que deseas hacer?");
          System.out.println("a- Ingresar un dispositivo");
          System.out.println("b- Visualizar smartphones almacenados");
          System.out.println("c- Cerrar programa");
@@ -48,7 +48,7 @@ public class main {
       String brand, model, color, anotherdevice, operativeSyst, deviceChoise, memory;
       
       do {
-         System.out.println("¡Que tipo de dispositvo desea registrar?");
+         System.out.println("¿Que tipo de dispositvo desea registrar?");
          System.out.println("a- Celular");
          System.out.println("b- Smartphone");
          System.out.println("c- Volver atras");
